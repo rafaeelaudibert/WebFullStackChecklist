@@ -1,5 +1,5 @@
-Finish research for tech
-Add rest of the tree
+Finish research for tech (Done)
+Add rest of the tree ()
 Add footer with relevant information and asking for feedback and corrections
 Add my competence of each tech inside parenteses
 Prepare html for css styling (font, colors, folder styling)

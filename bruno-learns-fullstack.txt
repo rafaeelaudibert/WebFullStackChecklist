@@ -18,7 +18,8 @@ Frontend ()
 			cssgr.id (grid)
 			keyframes.app (animations)
 			shapeshifter.design (SVG animations)
-		Plugins
+			colorzilla.com (gradient generator)
+		Scripting
 			Sass
 			Stylus
 			Less
@@ -31,7 +32,8 @@ Frontend ()
 			EcmaScript Next
 			Ajax
 			Yarn
-			DOM & BOM
+			DOM
+			BOM
 			Animations
 			SVG Animations
 		Libraries
@@ -42,11 +44,14 @@ Frontend ()
 			Backbone.js
 			Knockout.js
 			Polymer.js
+			ReactiveX
+		Specific Libraries
 			p5.js
 			D3.js
-			ReactiveX
 			Vivid.js
-			Lottie (After Effects SVG animations)
+			TensorFlow.js
+			ml5js
+			(Better to search google according to needs actually)
 		Frameworks
 			Vue.js
 			Angular
@@ -56,14 +61,18 @@ Frontend ()
 			Jasmine
 		Tools
 			Gulp.js
+			Karma
 			animejs (animations)
 			svgator (SVG animations)
 			popmotion.io (animations)
-	Frameworks web ()
+			Lottie (After Effects SVG animations)
+	Web frameworks ()
+		Electron
 		Bootstrap
 		Skeleton
 		Materialize CSS
-		Electron
+		WordPress (ew)
+
 Backend ()
 	Node.js ()
 		Concepts
@@ -77,14 +86,41 @@ Backend ()
 			AdonisJs
 	TypeScript ()
 	deno ()
+	Ruby ()
+		Frameworks
+			Ruby on Rails
+	PHP ()
+		Frameworks
+			Laravel
+	Python ()
+		Frameworks
+			Django
+			Flask
+	C#
+		Frameworks
+			ASP.NET MVC
+			ASP.NET Web API
+	SQL
+	MySQL
+	NoSQL
+	PostgreSQL
+	MongoDB
+
 Stacks ()
-	MEAN
-	LAMP
+	MEAN (MongoDB, Express.js, Angular, Node.js)
+	LAMP (Linux, Apache, MySQL, PHP)
+
 WebAssembly ()
 
-Other Technologies
-                                
-Novice - Competent - Proficient - Expert - Master           
+Other Technologies and Concepts
+	Webpack
+	Regular Expression
+	Git
+		Git Karma Commit Msg
+	Search Engine Optimization (SEO)
+
+
+Novice - Competent - Proficient - Expert - Master - Not out yet        
 
 Concepts
 Frameworks
