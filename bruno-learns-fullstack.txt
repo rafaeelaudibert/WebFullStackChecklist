@@ -1,0 +1,100 @@
+Bruno Learns Full Stack Web Development 2018
+                                            
+Frontend ()
+	HTML ()
+		Concepts
+			Anatomy & Semantics
+			Sintax
+			Form handling setup
+			SVG
+	CSS ()
+		Concepts
+			Grid
+			Flex Box
+			Animations
+			SVG Animations
+			BEM
+		Tools
+			cssgr.id (grid)
+			keyframes.app (animations)
+			shapeshifter.design (SVG animations)
+		Plugins
+			Sass
+			Stylus
+			Less
+			PostCSS
+	JavaScript ()
+		Concepts
+			JSON
+			Callbacks
+			Promises
+			EcmaScript Next
+			Ajax
+			Yarn
+			DOM & BOM
+			Animations
+			SVG Animations
+		Libraries
+			jQuery
+			jQuery UI
+			Lodash
+			React
+			Backbone.js
+			Knockout.js
+			Polymer.js
+			p5.js
+			D3.js
+			ReactiveX
+			Vivid.js
+			Lottie (After Effects SVG animations)
+		Frameworks
+			Vue.js
+			Angular
+			Redux
+			Ember.js
+			Aurelia.js
+			Jasmine
+		Tools
+			Gulp.js
+			animejs (animations)
+			svgator (SVG animations)
+			popmotion.io (animations)
+	Frameworks web ()
+		Bootstrap
+		Skeleton
+		Materialize CSS
+		Electron
+Backend ()
+	Node.js ()
+		Concepts
+			npm
+			package.json
+			Middleware pattern
+		Frameworks
+			Express.js
+			Sails.js
+			Koa.js
+			AdonisJs
+	TypeScript ()
+	deno ()
+Stacks ()
+	MEAN
+	LAMP
+WebAssembly ()
+
+Other Technologies
+
+Definições
+mais links
+
+                                
+Novice - Competent - Proficient - Expert - Master           
+
+Concepts
+Frameworks
+Libraries
+Plugins
+Tools
+Other
+                  
+pegar tree do cod3r                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
