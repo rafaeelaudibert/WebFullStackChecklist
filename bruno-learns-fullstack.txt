@@ -83,10 +83,6 @@ Stacks ()
 WebAssembly ()
 
 Other Technologies
-
-Defini��es
-mais links
-
                                 
 Novice - Competent - Proficient - Expert - Master           
 
