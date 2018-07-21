@@ -84,7 +84,7 @@ WebAssembly ()
 
 Other Technologies
 
-Definições
+Definiï¿½ï¿½es
 mais links
 
                                 
@@ -98,3 +98,5 @@ Tools
 Other
                   
 pegar tree do cod3r                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+mensagem pedindo feedback , missclassifications, correÃ§Ãµes e sugestÃµes de tecnologias
