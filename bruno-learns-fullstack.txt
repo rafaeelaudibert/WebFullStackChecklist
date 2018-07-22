@@ -117,18 +117,6 @@ Other Technologies and Concepts
 	Regular Expression
 	Git
 		Git Karma Commit Msg
-	Search Engine Optimization (SEO)
-
-
-Novice - Competent - Proficient - Expert - Master - Not out yet        
-
-Concepts
-Frameworks
-Libraries
-Plugins
-Tools
-Other
+	Search Engine Optimization (SEO)       
                   
-pegar tree do cod3r                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-
-mensagem pedindo feedback , missclassifications, correções e sugestões de tecnologias
+pegar tree do cod3r
