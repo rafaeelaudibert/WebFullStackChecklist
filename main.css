@@ -23,7 +23,7 @@ main {
     margin: 0;
     padding: 0;
     padding-left: 30%;
-    color: #323741
+    color: #323741;
 }
 
 nav {
@@ -41,6 +41,24 @@ footer p {
 footer p a {
     color: #F46674;
     text-decoration: none;
+}
+
+#expand-all, #close-all {
+	background-color:#323741;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:0.8rem;
+	padding:0.5rem 0.8rem;
+    text-decoration:none;
+    border: none;
+}
+#expand-all:hover, #close-all:hover {
+	background-color:#4a4e57;
+}
+#expand-all:active,  #close-all:active {
+	position:relative;
+	top:2px;
 }
 
 .learn{
