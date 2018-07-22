@@ -96,15 +96,15 @@ Backend ()
 		Frameworks
 			Django
 			Flask
-	C#
+	C# ()
 		Frameworks
 			ASP.NET MVC
 			ASP.NET Web API
-	SQL
-	MySQL
-	NoSQL
-	PostgreSQL
-	MongoDB
+	SQL ()
+		MySQL ()
+		PostgreSQL ()
+	NoSQL ()
+		MongoDB ()
 
 Stacks ()
 	MEAN (MongoDB, Express.js, Angular, Node.js)
