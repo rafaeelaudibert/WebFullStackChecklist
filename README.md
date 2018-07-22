@@ -2,6 +2,5 @@
 Hosted at brunoandremattos.github.io/fullstack/
 
 To Do:
--Add MERN Stack
--Decapitalize mongoBD's M
--
+1. Add MERN Stack
+2. Decapitalize mongoBD's M
