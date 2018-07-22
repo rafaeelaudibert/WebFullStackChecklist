@@ -7,3 +7,4 @@ To Do:
 3. Mark html form handling setup as learned
 4. Electron framework misclassification
 5. Add CMS section for WordPress
+6. Mark html SVG as learned
