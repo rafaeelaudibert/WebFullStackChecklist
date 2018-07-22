@@ -1,23 +1,63 @@
+/* colors: #323741, #06858C, #45C48B, #FFA84C, #F46674 */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#f4f4f4;
+}
+
+h1 {
+    color: #323741;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    margin: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+main {
+    margin: 0;
+    padding: 0;
+    padding-left: 30%;
+    color: #323741
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    color: #323741;
+}
+
+footer p a {
+    color: #F46674;
+    text-decoration: none;
+}
+
 .learn{
-    color: red;
+    color: #F46674;
 }
 
 .learning{
-    color: blue;
+    color: #06858C;
 }
 
 .revisit{
-    color: orange;
+    color: #FFA84C;
 }
 
 .learned{
-    color: green;
+    color: #45C48B;
 }
-
-ul {
-    list-style-type: none;
-}
-
 
 /* TREE CODE CORTESIA DA COD3R ACADEMY */
 .tree * {

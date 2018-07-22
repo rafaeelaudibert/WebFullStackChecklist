@@ -1,13 +1,13 @@
 Bruno Learns Full Stack Web Development 2018
                                             
-Frontend ()
-	HTML ()
+Frontend
+	HTML
 		Concepts
 			Anatomy & Semantics
 			Sintax
 			Form handling setup
 			SVG
-	CSS ()
+	CSS
 		Concepts
 			Grid
 			Flex Box
@@ -24,7 +24,7 @@ Frontend ()
 			Stylus
 			Less
 			PostCSS
-	JavaScript ()
+	JavaScript
 		Concepts
 			JSON
 			Callbacks
@@ -66,15 +66,15 @@ Frontend ()
 			svgator (SVG animations)
 			popmotion.io (animations)
 			Lottie (After Effects SVG animations)
-	Web frameworks ()
+	Web frameworks
 		Electron
 		Bootstrap
 		Skeleton
 		Materialize CSS
 		WordPress (ew)
 
-Backend ()
-	Node.js ()
+Backend
+	Node.js
 		Concepts
 			npm
 			package.json
@@ -84,39 +84,37 @@ Backend ()
 			Sails.js
 			Koa.js
 			AdonisJs
-	TypeScript ()
-	deno ()
-	Ruby ()
+	TypeScript
+	deno
+	Ruby
 		Frameworks
 			Ruby on Rails
-	PHP ()
+	PHP
 		Frameworks
 			Laravel
-	Python ()
+	Python
 		Frameworks
 			Django
 			Flask
-	C# ()
+	C#
 		Frameworks
 			ASP.NET MVC
 			ASP.NET Web API
-	SQL ()
-		MySQL ()
-		PostgreSQL ()
-	NoSQL ()
-		MongoDB ()
+	SQL
+		MySQL
+		PostgreSQL
+	NoSQL
+		MongoDB
 
-Stacks ()
+Stacks
 	MEAN (MongoDB, Express.js, Angular, Node.js)
 	LAMP (Linux, Apache, MySQL, PHP)
 
-WebAssembly ()
+WebAssembly
 
 Other Technologies and Concepts
 	Webpack
 	Regular Expression
 	Git
 		Git Karma Commit Msg
-	Search Engine Optimization (SEO)       
-                  
-pegar tree do cod3r
+	Search Engine Optimization (SEO)
