@@ -43,13 +43,17 @@ footer p a {
     text-decoration: none;
 }
 
+footer p a:hover {
+    color: rgb(252, 134, 146);
+}
+
 #expand-all, #close-all {
 	background-color:#323741;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
-	font-size:0.8rem;
-	padding:0.5rem 0.8rem;
+	color:#f4f4f4;
+    padding:0.5rem 0.8rem;
+    margin: 0.2rem;
     text-decoration:none;
     border: none;
 }
@@ -61,20 +65,40 @@ footer p a {
 	top:2px;
 }
 
+.folder{
+    cursor:pointer;
+}
+
 .learn{
     color: #F46674;
+}
+
+.learn.folder:hover {
+    color: rgb(252, 134, 146);
 }
 
 .learning{
     color: #06858C;
 }
 
+.learning.folder:hover {
+    color: rgb(10, 181, 190);
+}
+
 .revisit{
     color: #FFA84C;
 }
 
+.revisit.folder:hover {
+    color: rgb(255, 203, 148);
+}
+
 .learned{
     color: #45C48B;
+}
+
+.learned.folder:hover {
+    color: rgb(93, 250, 179);
 }
 
 /* TREE CODE CORTESIA DA COD3R ACADEMY */
