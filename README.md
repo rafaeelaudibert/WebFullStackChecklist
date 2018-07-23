@@ -1,4 +1,4 @@
-# FullStack Checklist
+# Web Full-stack Checklist
 Hosted [here](https://rafaeelaudibert.github.io/fullstack/)
 
 All credit goes to [Bruno Andre Mattos](https://github.com/BrunoAndreMattos) for the idea and the basic code.
