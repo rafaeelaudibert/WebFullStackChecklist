@@ -1,7 +1,5 @@
-# full-stack-web-development-checklist
-Hosted at brunoandremattos.github.io/fullstack/
+# FullStack Checklist
+Hosted [here](https://rafaeelaudibert.github.io/fullstack/)
 
-To Do:
-1. Refactor js code
-2. Change Flex Box to Flexbox
-3. Make a json file to create a system for better editing what I've learned (maybe?)
+All credit goes to [Bruno Andre Mattos](https://github.com/BrunoAndreMattos) for the idea and the basic code.
+This is just a fork with what I want to learn
