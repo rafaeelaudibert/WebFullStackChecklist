@@ -2,4 +2,4 @@
 Hosted at brunoandremattos.github.io/fullstack/
 
 To Do:
-1. 
+1. Refactor js code
