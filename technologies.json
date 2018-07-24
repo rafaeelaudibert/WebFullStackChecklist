@@ -1,0 +1,172 @@
+const technologies = {
+  "Front-end": {
+    "HTML": {
+      "Basic Concepts": "",
+      "Concepts": [
+        "Anatomy & Semantics",
+        "Syntax",
+        "Form handling setup",
+        "SVG"
+      ]
+    },
+    "CSS": {
+      "Basic Concepts": "",
+      "Concepts": [
+        "Grid",
+        "Flexbox",
+        "Animations",
+        "SVG Animations",
+        "BEM"
+      ],
+      "Scripting": [
+        "Sass",
+        "Less",
+        "Stylus",
+        "PostCSS"
+      ]
+    },
+    "JavaScript": {
+      "Basic Concepts": "",
+      "Concepts": [
+        "JSON",
+  			"Callbacks",
+  			"Promises",
+  			"EcmaScript Next",
+  			"Ajax",
+  			"Yarn",
+  			"DOM",
+  			"BOM",
+  			"Animations",
+  			"SVG Animations"
+      ],
+      "Libraries": [
+        "jQuery",
+  			"jQuery UI",
+  			"Lodash",
+  			"React",
+  			"Backbone.js",
+  			"Knockout.js",
+  			"Polymer.js",
+  			"ReactiveX"
+      ],
+      "Specific Libraries": [
+        "p5.js",
+  			"D3.js",
+  			"Vivid.js",
+  			"TensorFlow.js",
+  			"ml5js",
+        "everything you find in Google..."
+      ],
+      "Frameworks": [
+        "Vue.js",
+  			"Angular",
+  			"Redux",
+  			"Ember.js",
+  			"Aurelia.js",
+  			"Jasmine"
+      ],
+      "Tools": [
+        "yarn",
+        "Gulp.js",
+        "Karma"
+      ]
+    },
+    "Frameworks": [
+      "Bootstrap",
+      "Skeleton",
+      "Materialize CSS"
+    ],
+    "Content Management System": [
+      "Wordpress",
+      "Webflow"
+    ]
+  },
+  "Back-end": {
+    "Node.js": {
+      "Concepts": [
+        "npm",
+        "package.json",
+        "Middleware pattern"
+      ],
+      "Frameworks": [
+        "Express.js",
+        "Sails.js",
+        "Koa.js",
+        "AdonisJs"
+      ]
+    },
+    "TypeScript": {
+      "Concepts": [
+        "Compilation to JS",
+        "Improvements comparing to JS"
+      ]
+    },
+    "Ruby": {
+      "Frameworks": [
+        "Ruby on Rails"
+      ]
+    },
+    "PHP": {
+      "Frameworks": [
+        "Laravel"
+      ]
+    },
+    "Python": {
+      "Frameworks": [
+        "Django",
+        "Flask"
+      ]
+    },
+    "C#": {
+      "Frameworks": [
+        "ASP.NET MVC",
+        "ASP.NET Web API"
+      ]
+    },
+    "Databases": {
+      "SQL": [
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "NoSQL": [
+        "MongoDB",
+        "Redis",
+        "Cassandra"
+      ]
+    }
+  },
+  "Stacks and Hybrid Frameworks": {
+    "Electron": [
+      "Main process",
+      "Renderer process"
+    ],
+    "MEAN": [
+      "mongoDB",
+      "Express.js",
+      "Angular",
+      "Node.js"
+    ],
+    "LAMP": [
+      "Linux",
+      "Apache",
+      "MySQL",
+      "PHP"
+    ],
+    "MERN": [
+      "mongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "Redux",
+      "Webpack"
+    ]
+  },
+  "WebAssembly": "Not out yet",
+  "Other technologies": {
+    "Webpack": "",
+    "RegEx": "",
+    "Git": ["Git Karma", "Gitmoji"],
+    "Search Engine Optimization (SEO)": ""
+  }
+
+}
