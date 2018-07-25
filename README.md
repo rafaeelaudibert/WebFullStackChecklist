@@ -5,3 +5,4 @@ To Do:
 1. Refactor js code
 2. Change Flex Box to Flexbox
 3. Make a json file to create a system for better editing what I've learned (maybe?)
+4. Substitute folder as class to be folder as atribute and use [] selector to style it
