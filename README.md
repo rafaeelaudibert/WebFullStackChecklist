@@ -1,5 +1,6 @@
 # Web Full-stack Checklist
-Hosted [here](https://rafaeelaudibert.github.io/WebFullStackChecklist/)
+Web stuff I wanna learn
 
-All credit goes to [Bruno Andre Mattos](https://github.com/BrunoAndreMattos) for the idea and the basic code.
-This is just a fork with what I want to learn
+To Do:
+1. Substitute folder as class to be folder as atribute and use [] selector to style it
+
