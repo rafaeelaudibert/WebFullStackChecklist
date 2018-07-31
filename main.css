@@ -47,8 +47,8 @@ footer p a:hover {
     color: rgb(252, 134, 146);
 }
 
-#expand-all, #close-all {
-	background-color:#323741;
+button {
+  background-color:#323741;
 	display:inline-block;
 	cursor:pointer;
 	color:#f4f4f4;
@@ -57,10 +57,12 @@ footer p a:hover {
     text-decoration:none;
     border: none;
 }
-#expand-all:hover, #close-all:hover {
+
+button:hover{
 	background-color:#4a4e57;
 }
-#expand-all:active,  #close-all:active {
+
+button:active {
 	position:relative;
 	top:2px;
 }
