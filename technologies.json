@@ -66,6 +66,10 @@ const technologies = [{
                 {
                   "name": "@keyframes",
                   "status": "TL"
+                },
+                {
+                  "name": "::before & ::after",
+                  "status": "LR"
                 }
               ]
             },
@@ -530,6 +534,10 @@ const technologies = [{
             {
               "name": "Docker",
               "status": "LR"
+            },
+            {
+              "name": "HTTP & HTTPS protocols",
+              "status": "TL"
             }
           ]
         }
